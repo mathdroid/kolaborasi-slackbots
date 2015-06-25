@@ -1,0 +1,17 @@
+{
+  "name": "servantbot",
+  "version": "0.1.0",
+  "description": "servant for KKI",
+  "main": "example_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Mustadi",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.58.0",
+    "slack-client": "^1.4.1",
+    "slackbotapi": "^1.1.2"
+  },
+  "devDependencies": {}
+}
